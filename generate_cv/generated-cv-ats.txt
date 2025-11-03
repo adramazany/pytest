@@ -1,0 +1,121 @@
+Adel Ramezani
+Senior Software Engineer | Java Specialist | Cloud & Microservices Expert
+Roding, 93426 Germany
+Phone: +49 16091425699
+Email: adelramezani.jd@gmail.com
+
+LinkedIn: linkedin.com/in/adel-ramezani
+
+Summary
+
+Experienced Senior Software Engineer with 15+ years in software development specializing in Java, Spring Boot, Hibernate, REST APIs, and cloud-native microservices. Strong skills in unit testing with JUnit, CI/CD pipelines, Docker, Kubernetes, and AWS/Azure cloud platforms. Proven ability to deliver scalable, maintainable, and secure backend solutions using microservices architectures. Passionate about agile methodologies and continuous professional development. Intermediate German language skills (A2) and fluent in English.
+
+Technical Skills
+
+Programming Languages: Java, Scala, Python, JavaScript
+
+Frameworks & Technologies: Spring Boot, Hibernate, Quarkus (familiar), REST, Microservices, Payara (basic knowledge)
+
+Databases: Oracle DB, PostgreSQL, MySQL, MS-SQL, MongoDB, Cassandra, DynamoDB, ArangoDB
+
+Messaging Systems: Kafka, RabbitMQ
+
+Cloud & DevOps: AWS (S3, Lambda, EC2, RDS), Azure, Docker, Kubernetes, Rancher (basic), Jenkins, Git, GitLab CI, Helm (basic), Argo CD (basic)
+
+Testing & Monitoring: JUnit, Pact, Jasmine, Karma, Grafana, Dynatrace (basic)
+
+Frontend: Angular, React (basic)
+
+Other: Agile (Scrum, Kanban, SAFe), Jira, Confluence, OAuth2/OIDC, OpenAPI
+
+Professional Experience
+
+Senior Software Engineer
+Mühlbauer GmbH, Roding, Germany
+April 2023 – Present
+
+Developed Java and Spring Boot microservices and REST APIs with a focus on scalability and maintainability.
+
+Improved ArangoDB query performance by 100%.
+
+Automated integration testing using JUnit and Jenkins pipelines.
+
+Containerized applications using Docker and Kubernetes for cloud-native deployment.
+
+Deployed large language models locally to enhance data privacy and reduce cloud dependency.
+
+Mentored junior engineers and contributed to agile team processes.
+
+Senior Software Engineer and Team Lead
+MyDigiPay (Digikala), Tehran, Iran
+September 2020 – February 2023
+
+Led microservices development using Java, Spring Boot, Kafka, and Spark.
+
+Implemented real-time Change Data Capture (CDC) with Debezium and Kafka.
+
+Built and maintained CI/CD pipelines using Jenkins and GitLab CI.
+
+Collaborated with business teams to translate requirements into technical solutions.
+
+Delivered actionable AI-driven marketing insights.
+
+Senior Software Engineer
+Sadad Informatics Corporation (Melli Bank), Tehran, Iran
+May 2018 – September 2020
+
+Developed secure financial transaction systems with Java, Spring Cloud, and Oracle DB.
+
+Integrated Elasticsearch and Prometheus for real-time monitoring and security analytics.
+
+Led implementation of Software Security Module (SSM) and banking switch improvements.
+
+Coordinated with POS providers and internal teams for ISO-8583 payment processing.
+
+Senior Software Engineer
+Caspian (Parsian Bank), Tehran, Iran
+November 2015 – May 2018
+
+Delivered core banking OpenAPI platform using Java, Spring Boot, and WSO2.
+
+Centralized log management with Elasticsearch for performance monitoring.
+
+Archived 20TB of database data, optimizing storage and performance.
+
+Led Root Cause Analysis (RCA) committee to enhance system reliability.
+
+Software Engineer
+BIP Co., Tehran, Iran
+February 2005 – November 2015
+
+Developed distributed API communication systems and AI-powered dashboards.
+
+Implemented Elasticsearch-based search and vector database for face recognition.
+
+Delivered scalable oil-selling and payment applications.
+
+Education
+
+Master of Science, Information Technology
+K.N.Toosi University, Tehran, Iran
+May 2014 – August 2016
+
+Bachelor of Science, Applied Mathematics
+Tabriz University, Tabriz, Iran
+May 1994 – March 1999
+
+Certifications
+
+AWS Cloud Solutions Architect Professional (expected September 2025)
+
+Kaggle Intro to Machine Learning (November 2023)
+
+Languages
+
+English – B2 (Upper-Intermediate)
+
+German – A2 (Elementary, improving)
+
+Persian – C2 (Native)
+
+Turkish – C1 (Advanced)

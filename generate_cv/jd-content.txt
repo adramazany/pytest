@@ -1,0 +1,82 @@
+Java Senior Entwickler*in Webtechnologien (m/w/d)
+65.000 - 95.000 €
+FERENDIN Engineering GmbH
+Mylius Str. 10, Ludwigsburg + Remote (DE)
+
+https://germantechjobs.de/jobs/FERENDIN-Engineering-GmbH-Java-Senior-Entwicklerin-Webtechnologien-mwd?utm_campaign=swissdevjobs_weekly_newsletter&utm_medium=swissdevjobs_email&utm_source=newsletter&utm_term=swissdevjobs
+
+Technologien 
+Java
+Spring Boot
+Hibernate
+JUnit
+REST
+SQL
+NoSQL
+microservices
+Docker
+AWS
+Azure
+Quarkus
+
+
+Requirements
+Must-haves:
++ At least 8 years of experience in a relevant position in software development with JAVA.
++ Passion for technology and continuous professional development.
++ Very good knowledge of German and good knowledge of English.
++ Understanding of testing procedures and experience in testing your own code, e.g., with unit tests.
++ Mastery of several design patterns and knowledge of their application.
++ Willingness to work on site at the customer's premises.
+
+Main technologies (must-haves):
+
++ Kubernetes & Rancher
++ Payara & Quarkus
++ Oracle DB, Kafka
++ Angular
++ Jenkins, Git
++ Grafana or Dynatrace
++ Pact, JUnit, Jasmine, Karma
++ Kanban, Jira, Confluence
+Nice to have:
+Desirable technologies (nice to have):
+
++ Helm, Argo CD, Flux
++ REST design, OpenAPI, OAuth2 / OIDC
++ Quarkus Native Builds, Payara Micro
++ GitLab CI, test automation
++ Cloud infrastructure (AWS, Azure, OpenShift)
++ Building dashboards in Grafana/Dynatrace
++ Business analysis (e.g., UML modeling, Camunda, etc.)
+
+
+Responsibilities
++ Consulting and implementation of high-performance software solutions
++ Clear professional and technical communication with our customers
++ Agile working methods such as Scrum, Kanban, and SAFe
++ Implementation of technical requirements in maintainable services and UIs
++ Setup and maintenance of release-dependent Payara domains and container environments, including Oracle DB
++ Planning and execution of deployments (test + PROD)
++ DevOps tasks to ensure smooth operation (monitoring, incident handling, performance optimization)
++ Creation of technical solution designs
++ Active participation in the SCRUM/Kanban team, structured coordination via Jira & Confluence
+
+
+Description
+
+We are a young IT consulting company based in Ludwigsburg. We design, develop, and operate cloud-native specialist applications for our customers throughout the DACH region. We work remotely and are self-organized—but when quarterly planning, project kick-offs, or workshops are on the agenda, we are also available to support our customers in person on site.
+
++ Remote work with the option to come into the office.
++ Above-average salary.
++ Optional company pension plan (bav).
++ Appropriate modern hardware equipment.
++ Great team.
++ Company-paid 3-4-day team-building events at various locations in Germany and abroad.
++ 30 days of vacation entry level.
++ Online/offline training courses and training budget.
++ Support and budget for certifications.
++ Workshops.
++ Hackathons.
+
+If you recognize yourself in this profile, we would love to hear from you!

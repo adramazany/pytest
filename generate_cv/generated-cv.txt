@@ -1,0 +1,117 @@
+Adel Ramezani
+Senior Software Engineer | Java Specialist | Cloud & Microservices Expert
+Roding, 93426 Germany | (+49) 16091425699 | adelramezani.jd@gmail.com
+
+LinkedIn
+
+Summary
+
+Experienced Senior Software Engineer with 15+ years in software development, specializing in Java, Spring Boot, Hibernate, and cloud-native microservices architectures. Skilled in building high-performance, scalable backend systems with a strong focus on testing (JUnit, Pact) and DevOps (Docker, Kubernetes, Jenkins). Proven track record of delivering maintainable, secure, and optimized applications for enterprise environments. Passionate about continuous learning and agile teamwork. Currently working with AI integrations, but with deep roots in web technologies, databases, and cloud infrastructure. Intermediate German (A2) with plans to improve.
+
+Technical Skills
+
+Languages & Frameworks:
+Java (15+ years), Spring Boot, Hibernate, JUnit, REST, Microservices, Quarkus (familiar)
+
+Databases:
+Oracle DB, PostgreSQL, MySQL, MS-SQL, MongoDB, Cassandra, DynamoDB, ArangoDB
+
+Messaging & Streaming:
+Kafka, RabbitMQ
+
+Cloud & DevOps:
+AWS (S3, Lambda, EC2, RDS), Azure, Docker, Kubernetes, Rancher (familiar), Jenkins, Git, GitLab CI, Helm (basic knowledge), Argo CD
+
+Testing & Monitoring:
+JUnit, Pact, Jasmine, Karma, Grafana, Dynatrace (basic)
+
+Frontend & UI:
+Angular, React (basic)
+
+Other:
+Agile (Scrum, Kanban, SAFe), Jira, Confluence, OAuth2/OIDC, OpenAPI, CI/CD pipelines
+
+Professional Experience
+
+Senior Software Engineer
+Mühlbauer GmbH, Roding | 04/2023 – Present
+
+Designed and implemented AI-integrated microservices using Java and Spring Boot.
+
+Improved system performance and query efficiency by 100% using ArangoDB.
+
+Developed and maintained REST APIs, following best practices in design and testing (JUnit).
+
+Automated integration testing and deployment using Jenkins and Kubernetes.
+
+Managed prompt engineering for LLM-based chatbots, deployed securely with Ollama and containerized environments.
+
+Mentored junior engineers and fostered agile best practices within the team.
+
+Senior Software Engineer & Team Lead
+MyDigiPay (Digikala), Tehran | 09/2020 – 02/2023
+
+Led development of scalable microservices with Java, Spring Boot, Kafka, and Spark.
+
+Implemented real-time Change Data Capture (CDC) with Debezium and Kafka for financial data pipelines.
+
+Coordinated with business teams, translating requirements into technical solutions.
+
+Established CI/CD pipelines with Jenkins and GitLab CI, ensuring smooth deployments and releases.
+
+Delivered actionable marketing insights via AI-driven reports.
+
+Senior Software Engineer
+Sadad Informatics Corp. (Melli Bank), Tehran | 05/2018 – 09/2020
+
+Developed secure, high-performance banking transaction systems using Java, Spring Cloud, and Oracle DB.
+
+Integrated Elasticsearch and Prometheus for real-time monitoring and threat detection.
+
+Led implementation of a Software Security Module (SSM) and optimized production deployment processes.
+
+Collaborated with external POS providers and internal teams for seamless ISO-8583 transaction processing.
+
+Senior Software Engineer
+Caspian (Parsian Bank), Tehran | 11/2015 – 05/2018
+
+Delivered core banking OpenAPI platform using Java, Spring Boot, and WSO2.
+
+Centralized log management with Elasticsearch, improving incident response and RCA processes.
+
+Optimized database and system performance, managing archiving of large data sets (20TB+).
+
+Contributed to API-centric microservices architecture and Agile team collaboration.
+
+Software Engineer
+BIP Co., Tehran | 02/2005 – 11/2015
+
+Developed distributed APIs and AI-enhanced systems for national oil and civil registration organizations.
+
+Used Elasticsearch and vector search for large-scale data retrieval and face recognition.
+
+Designed scalable applications for payments and reporting dashboards.
+
+Education
+
+M.Sc. Information Technology
+K.N.Toosi University, Tehran | 2014 – 2016
+
+B.Sc. Applied Mathematics
+Tabriz University, Tabriz | 1994 – 1999
+
+Certifications
+
+AWS Cloud Solutions Architect Professional (Expected Sep 2025)
+
+Kaggle Intro to Machine Learning (Nov 2023)
+
+Languages
+
+English – B2
+
+German – A2 (improving)
+
+Persian – C2
+
+Turkish – C1

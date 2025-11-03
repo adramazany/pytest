@@ -1,0 +1,149 @@
+Adel Ramezani
+Sr. Software Engineer
+
+ 
+ 
+Contact
+     Address 
+Roding, 93426 Germany
+Phone 
+(+49) 16091425699
+E-mail 
+adelramezani.jd@gmail.com
+LinkedIn 
+https://www.linkedin.com/in/adel-ramezani/
+Technical Skills
+
+Java, Scala, Python, JavaScript
+Elasticsearch, Fuzziness, Optimizing search, Scoring Algorithm, Caching
+Spring Boot, Spring Clouds, Horizontal Scaling, IaaS, PaaS, Restful API
+Spark, Big Data, BigQuery
+Docker, Kubernetes
+Kafka, RabbitMQ
+SQL, NoSQL, PostgreSQL, MySQL, MS-SQL, MongoDB, Oracle, Cassandra, DynamoDB,Arango,GraphQL
+CI/CD, Jenkins, Ansible
+Algorithms, OOP, ORM, JPA Microservices, Hibernate
+Git, GitHub, GitLab
+TDD, DDD, Event-Driven(EDA)
+Fullstack Web Development, Responsive Web Design, Frontend, React, Angular
+Application Security, IAM, Data Privacy, Vulnerability
+Performance Tuning
+Firebase, Grafana, JIRA	
+
+AI Engineering Skills
+
+Tensorflow, PyTorch, Keras
+Machine Learning
+Natural Language Processing
+OpenAI
+LLM, LLaMA, Ollama, GPT-4
+LangChain, LlamaIndex, Hugging Face Transformers
+Ollama, cpp
+Prompt Engineering	
+
+Cloud Technical Skills
+
+Cloud Computing Architecture
+Amazon S3, Athena, Lambda, RDS, IAM, EC2
+Data Lakes
+Event-Driven Programming
+AWS API Gateway
+Computing Serverless, Hybrid Cloud, Cloud-Native 
+AzureSQL, Databricks	
+
+Soft Skills
+
+Complex Problem Solving
+Statistical Analysis
+Analytical Thinking
+Creative design
+Innovative
+Communication skills
+Agile/Scrum
+Project management	
+
+Languages
+
+English – B2
+Deutsch – A2
+Persian – C2
+Turkish – C1	
+
+
+
+Highly experienced, solution-oriented professional with 15+ years of experience in Software engineering. Experience on developing and fine-tuning LLMs to create intelligent assistant/agents for customer engagement. I have successfully developed projects within cloud environments and excel in full-stack development. Creative, respond well to challenges and be comfortable working with ambiguity Analytical thinking, Self-motivated, dedicated, reliable as a team player with excellent interpersonal skills and learning ability. 
+
+
+Experience
+ 	 	04/2023 - Current
+SENIOR SOFTWARE ENGINEER
+MÜHLBAUER GMBH, Roding
+❖	Integrated AI assistants into existing platforms, automating routine inquiries and improving response accuracy.
+❖	Optimized reporting service performance, reducing processing time from hours to minutes, achieving a 10x speed improvement.
+❖	Enhanced query performance in ArangoDB, improving efficiency by 100%.
+❖	Designed and implemented an automated integration-testing tool, streamlining testing and improving overall software quality.
+❖	Developed and fine-tuned large language models (LLMs) using Llama-3 to create intelligent chatbots for customer engagement.
+❖	Deployed LLMs locally with Ollama, enhancing data privacy and reducing cloud dependencies.
+❖	Managed prompt engineering, model evaluation, and continuous optimization to enhance chatbot performance.
+❖	Developed a real-time system to process large volumes machines messages.
+❖	Mentored junior developers, fostering professional growth and improving team productivity through knowledge-sharing and best practices.
+❖	Delivered excellent client support, addressing concerns and implementing requested changes or software enhancements promptly.
+❖	As a team member delivered solutions by estimating, designing, coding, testing, deploying, ensuring scalability, performance by the latest frameworks.
+
+ 	 	09/2020 - 02/2023
+SENIOR SOFTWARE ENGINEER AND TEAM LEAD
+MYDIGIPAY (DIGIKALA), Tehran
+❖	Developed AI-based actionable reports for marketing (including RFM, Customer Stickiness, Retention, and Customer Journey Analysis).
+❖	Implemented real-time CDC streaming to deliver real-time systems.
+❖	Implemented the dynamic ledger, significantly improved the financial process using Spring Boot.
+❖	Communicated and engaged with the business lines using non-technical way and to gather/replay requirements
+❖	Provided actionable insights to customer acquisition, operational efficiency and other KPIs of the Marketing.
+❖	Implemented scalable data solutions provide enterprise-scale data transformation secure, best practice data integration strategies and approaches with Java, Spring Boot, Airflow, Spark, Kafka, Git, Jenkins.
+❖	Implemented Real-time CDC using the Debezium and Kafka to ETL the MongoDB and MySQL data sources to the data-warehouse, and used many features of the Debezium and Kafka in converting MongoDB.
+❖	Delivered solutions that leverage large-scale data ingestion, streaming & batch analytics with the Java, Apache Druid, Superset, Python, Spark, and Kafka.
+
+ 	 	05/2018 - 09/2020
+SENIOR SOFTWARE ENGINEER
+SADAD INFORMATICS CORPORATION (MELLI BANK OF IRAN), Tehran
+❖	Won the Annual Banking and Payment Industry Conference award in 2019.
+❖	Reduced production time of the banking card launch by 6 months.
+❖	Implemented multi-layer security and encryption for banking transactions, ensuring robust security.
+❖	Used Elasticsearch for analyzing security event data over live banking switch for threat detection and response and tracking and analyzing application performance metrics as APM by using Prometheus.
+❖	Implemented an SSM (Software Security Module).
+❖	Implemented high performance banking switch.
+❖	Collaborated with the technical teams of POS provider companies to provide payment transactions by transferring data in ISO-8583 format.
+❖	Communicated with the bank’s departments to gather/replay requirements
+❖	Provided the Big-data and cloud architecture for large-scale transactions with the Spring-cloud, DB2, Jenkins, and Kubernetes.
+❖	Processed the Financial Clearance reports of Stakeholders.
+❖	Ideated the Crypto Currency Switch and Beacon based Customer Attraction into Finodad Innovation Center.
+
+ 	 	11/2015 - 05/2018
+SENIOR SOFTWARE ENGINEER
+CASPIAN (PARSIAN BANK), Tehran
+❖	Successfully implemented the core banking OpenAPI platform, expanding the bank's digital capabilities using Java, Spring Boot, WSO2.
+❖	Used Elasticsearch to centralize and analyze logs from multiple sources to monitor applications health and detect issues and tracking and analyzing application performance metrics as APM.
+❖	Resolved uncontrolled database growth, archiving 20 TB of annual data.
+❖	Optimized system performance, profiling bottlenecks in queries and caches.
+❖	Led the Root Cause Analysis (RCA) committee to improve reliability.
+❖	Enhanced core-banking functionality, identifying and resolving technical issues and bottlenecks in the system.
+❖	Developed scalable, API-centric infrastructures for the OpenAPI platform.
+❖	Collaborated with internal teams and management to design and implement OpenAPI application solutions.
+
+ 	 	02/2005 - 11/2015
+SOFTWARE ENGINEER
+BIP CO, Tehran
+❖	Used Elasticsearch for providing fast and relevant search from terabytes of data and also fast face recognition as a vector database in CMS application.
+❖	Designed and developed a distributed API-based communication system for the national oil-selling company, enhancing operational efficiency.
+❖	Developed AI-based dashboards for the Civil Registration Organization, improving data visualization and decision-making.
+❖	Implemented a next-generation text search system, improving search speed
+❖	Developed graph-based search services and face recognition systems, showcasing expertise in advanced AI technologies.
+❖	Developed scalable applications for oil selling and payment systems, as well as reporting dashboards for the Civil Registration Organization.
+❖	Designed AI-based systems for text analysis and implemented distributed API-based applications for communication between branches.
+Education
+  	2014-05 - 2016-08	 	Master of Science: INFORMATION TECHNOLOGY
+K.N.Toosi University - Tehran, Iran 
+	1994-05 - 1999-03		Bachelor of Science: APPLIED MATHEMATICS
+Tabriz University - Tabriz, Iran
+Certificate
+	SEP 2025	Amazon, Coursera	AWS Cloud Solutions Architect Professional
+ 	NOV 2023	 Kaggle	Intro to Machine Learning 
